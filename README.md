@@ -27,7 +27,7 @@
 
 
 
-<img width=100% src="https://github-profile-trophy.vercel.app/?username=arunpatetsa&column=7"/>
+<img width=100% src="https://github-profile-trophy.vercel.app/?username=arunpatetsa"/>
 
 
 [![Arun's github stats](https://github-readme-stats.vercel.app/api?username=arunpateltsa&count_private=true&hide=prs&show_icons=true&theme=radical&icon_color=79ff97&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
