@@ -32,7 +32,8 @@
 
 [![Arun's github stats](https://github-readme-stats.vercel.app/api?username=arunpateltsa&count_private=true&hide=prs&show_icons=true&theme=radical&icon_color=79ff97&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 >
-[![Top Language use by Arun](https://github-readme-stats.vercel.app/api/top-langs/?username=arunpateltsa)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arunpateltsa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
